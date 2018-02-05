@@ -1,4 +1,4 @@
-## 1. ¿Cual es la complejidad de tiempo de la función example()?
+## 1. ¿Cual es la complejidad de tiempo de la función example(O(n))?
 
 ```c++
 int example(int n)
@@ -11,7 +11,7 @@ int example(int n)
 }
 ```
 
-## 2. ¿Cual es la complejidad de tiempo de la función example2()?
+## 2. ¿Cual es la complejidad de tiempo de la función example2(O(1)?
 
 ```c++
 void example2(int n, int arr[])
@@ -24,5 +24,5 @@ void example2(int n, int arr[])
 ```
 
 ## 3. ¿Cuál es la mejor complejidad de tiempo de bubbleSort?
-
+la complejidad O(n^2)
 
